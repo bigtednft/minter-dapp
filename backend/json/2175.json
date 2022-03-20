@@ -1,0 +1,40 @@
+{
+  "name": "The Sons and Daughters of Big Ted #2175",
+  "description": "In a far away land, the one true Big Ted appeared. From him came; Fire, Water, Earth and Wind. He now has 4096 sons and daughters, each of them unique. Although all are special, he has his favourites....",
+  "image": "https://ipfs.io/ipfs/bafybeihdjcylkpaev7zj6334h7hkumerd6lu4g65b5u2ga2abl6w6fg3my",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue_Body"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red_Head"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Yellow_Left_Arm"
+    },
+    {
+      "trait_type": "Left Leg",
+      "value": "Green_Left_Leg"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Yellow_Right_Arm"
+    },
+    {
+      "trait_type": "Right Leg",
+      "value": "Blue_Right_Leg"
+    }
+  ],
+  "dna": "0bf1cb90c5d48acb9e556c6a8150004f9ba7554d",
+  "edition": 2175,
+  "external_url": "https://bigted.xyz",
+  "date": 1647775349210,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}
